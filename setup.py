@@ -31,7 +31,6 @@ setup(
         "torch",
         "pyyaml",
         "ipywidgets",
-        "pytorch3d",
     ],
     author="Bhavana Kodali, Mayank Gujrathi",
 )

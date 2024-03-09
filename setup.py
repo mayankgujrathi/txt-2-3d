@@ -13,6 +13,7 @@ setup(
         "mod.prebuild.stf",
         "mod.prebuild.transmitter",
         "mod.meshlib",
+        "mod.meshlib.raycast",
         "mod.util",
     ],
     install_requires=[
